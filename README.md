@@ -49,7 +49,8 @@ Modify the `App.config` file to set your local paths:
   <add key="DestinationFolder" value="C:\MyData\Destination" />
   <add key="LogFolder" value="C:\MyData\Logs" />
 </appSettings>
-
+    
+```
 # 📺 Demo & Testing
 
 ## Console Mode
