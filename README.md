@@ -50,17 +50,18 @@ Modify the `App.config` file to set your local paths:
   <add key="LogFolder" value="C:\MyData\Logs" />
 </appSettings>
 
-📺 Demo & Testing
-Console Mode
+# 📺 Demo & Testing
 
-Run the project directly from Visual Studio (F5) to see real-time log output.
+## Console Mode
 
-Service Mode
+Run the project directly from Visual Studio (`F5`) to see real-time log output.
 
-Build in Release mode and install using InstallUtil.exe.
+## Service Mode
 
-Action Flow
+Build in `Release` mode and install using `InstallUtil.exe`.
 
-Drop any file into the Source folder
-➡️ Observe the console/log
-➡️ Find the renamed file in the Destination folder.
+## Action Flow
+
+Drop any file into the `Source` folder  
+➡️ Observe the console/log  
+➡️ Find the renamed file in the `Destination` folder
