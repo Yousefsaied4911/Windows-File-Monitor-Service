@@ -66,3 +66,7 @@ Build in `Release` mode and install using `InstallUtil.exe`.
 Drop any file into the `Source` folder  
 ➡️ Observe the console/log  
 ➡️ Find the renamed file in the `Destination` folder
+
+# 📺 Video Of Project
+
+sha256:ef8da9d228f8e3dd95acc6c04f864a03eaa6ff365a5873cc152531578a61d2a8
