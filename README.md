@@ -67,6 +67,9 @@ Drop any file into the `Source` folder
 ➡️ Observe the console/log  
 ➡️ Find the renamed file in the `Destination` folder
 
-# 📺 Video Of Project
+# 📺 Video Of Project & Photos
 
-sha256:ef8da9d228f8e3dd95acc6c04f864a03eaa6ff365a5873cc152531578a61d2a8
+sha256:<img width="1916" height="964" alt="image" src="https://github.com/user-attachments/assets/96221990-cd1b-48f6-bf19-a10b851f0232" />
+
+
+
